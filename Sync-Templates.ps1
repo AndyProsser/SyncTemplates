@@ -4,7 +4,7 @@ $siteId    = 'd0a2f731-3f1e-40d2-b429-d26eff835ca9'
 $webId     = 'b3f1c3fd-24bd-40e2-a8b5-86fb07efb3d9'
 $listId    = '34640710-9bcf-435f-86cf-4701cf5583a6'
 $listTitle = 'Templates'
-$webUrl    = 'https://exectechs.sharepoint.com/teams/templates'
+$webUrl    = 'https://<tenant>.sharepoint.com/teams/templates'
 $webTitle  = 'Company Templates'
 $orgName   = 'TheExecTechs'
 <#====================================#>

@@ -1,7 +1,7 @@
 <#====================================#>
 <# CONFIGURATION #>
 $isTenantAdmin = $true
-$sharePointUrl = "https://exectechs.sharepoint.com/"
+$sharePointUrl = "https://<tenant>.sharepoint.com/"
 $templateSite = [PSCustomObject]@{
     Name    = "Company Templates"
     Alias   = "templates"
